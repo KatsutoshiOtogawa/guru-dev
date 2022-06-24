@@ -1,0 +1,4 @@
+[submodule "guru"]
+	path = guru
+	url = https://gitweb.gentoo.org/repo/proj/guru.git/
+	branch = dev
